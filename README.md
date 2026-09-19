@@ -115,5 +115,5 @@ The app is deployed on **Streamlit Community Cloud**:
 **Mayank** – [GitHub Profile](https://github.com/mayank-1584)
 
 ## License
-
-This project currently has no license specified. Feel free to reach out to the author for usage permissions.
+ask permission before taking license -_-
+It's me "mksharma6273@gmail.com"><
